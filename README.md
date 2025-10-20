@@ -1,2 +1,2 @@
 # MOBILE ECOMMERCE
-![web](./assets/image.png)
+![web](./src/app/assets/image.png)
