@@ -26,7 +26,7 @@ export default function addProduct(){
     <input name="name"
     required
     type="text"
-    placeholder="Name of your project"
+    placeholder="Name of your product"
     className="bg-white rounded-lg w-full p-2 mb-4"/>
     <textarea 
     required
